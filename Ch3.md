@@ -14,8 +14,9 @@
     - “타입 확인자”가 특정 동작 유효성 판단
     
 - 타입스크립트의 타입 계층
+<img width="713" alt="스크린샷 2023-04-11 오후 8 20 45" src="https://user-images.githubusercontent.com/59991281/231174526-33d72a04-a2eb-4b4f-ae27-a6bba302821e.png">
 
-![스크린샷 2023-04-11 오후 8.20.45.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66181a32-e73f-4ac7-bba7-664fc9a634a5/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-04-11_%EC%98%A4%ED%9B%84_8.20.45.png)
+
 
 ## 3.1 타입을 이야기하다
 
